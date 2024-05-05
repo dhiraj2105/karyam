@@ -18,7 +18,6 @@ Karyam is a platform that connects clients with local workers for various tasks 
 - **Backend**: Node.js, Express.js, MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
 - **Database**: MongoDB Atlas
-- **Payment Gateway**: Stripe (example)
 
 ### Future Work
 
