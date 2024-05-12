@@ -23,3 +23,8 @@ Karyam is a platform that connects clients with local workers for various tasks 
 
 - **Communication**: Clients and workers can communicate securely through in-app messaging.
 - **Payment System**: Integration with payment gateway for secure online payments.
+
+### To use this app
+
+1. Clone the repository using
+   `git clone github.com/dhiraj2105/karyam`
