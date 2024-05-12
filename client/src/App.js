@@ -41,7 +41,7 @@ function App() {
           setWorkerData(data);
         };
         fetchWorker();
-        // console.log("Worker Data from App.js -> ", workerData);
+        // console.log("Worker Data from App.js --> ", workerData);
       } else if (Role === "client") {
         const fetchClient = async () => {
           const response = await fetch(`clients/${localStorage.getItem("id")}`);
