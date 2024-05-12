@@ -111,7 +111,7 @@ img {
   height: auto;
 }
 
-/* ===========REUSABLE CSS CLASSES========================= */
+/* ===========REUSABLE CSS CLASSES============= */
 .section {
   padding: 6rem 0 2rem;
 }
@@ -201,7 +201,8 @@ img {
   }
 }
 
-@media screen and (max-width: 576px) {}
+@media screen and (max-width: 576px) {
+}
 
 /* For small devices */
 @media screen and (max-width: 350px) {
