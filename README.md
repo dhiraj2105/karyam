@@ -28,3 +28,5 @@ Karyam is a platform that connects clients with local workers for various tasks 
 
 1. Clone the repository using
    `git clone github.com/dhiraj2105/karyam`
+2. Navigate to client directory using
+   `cd client`
