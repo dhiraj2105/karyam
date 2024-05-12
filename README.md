@@ -30,3 +30,5 @@ Karyam is a platform that connects clients with local workers for various tasks 
    `git clone github.com/dhiraj2105/karyam`
 2. Navigate to client directory using
    `cd client`
+3. Open other teminal and navigate to server directory using
+   `cd server`
