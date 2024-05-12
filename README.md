@@ -34,3 +34,5 @@ Karyam is a platform that connects clients with local workers for various tasks 
    `cd server`
 4. Now install dependencies in both directories using
    `npm install`
+5. Run the app on both side using
+   `npm start`
