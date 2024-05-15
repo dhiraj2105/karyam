@@ -3,6 +3,7 @@
 Karyam is a platform that connects clients with local workers for various tasks such as plumbing, carpentry, electrical work, etc.
 
 ![Demo](./client/src/assets/k2.png)
+![Demo](./client/src/assets/k4.png)
 
 ## Features
 
